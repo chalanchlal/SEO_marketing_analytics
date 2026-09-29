@@ -56,6 +56,14 @@ Power BI Dashboard
 Generative AI Insights
    ↓
 Business Recommendations
+```
 
-screenshots/dashboard.png
-screenshots/ai-insights.png
+## 📸 Dashboard Screenshots
+
+### Main Dashboard
+
+![AI Business Insights](screen%20shots/dashboard.png)
+
+### AI Business Insights
+
+![Main Dashboard](screen%20shots/ai_insight.png)
